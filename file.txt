@@ -1,0 +1,61 @@
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+Hello from MyCustomMiddleWare!
+{"schema":"https","host":"localhost:7104","path":"/","query":""}
+Hello from MyCustomMiddleWare!
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":""}
+=============================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":""}
+===========================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":""}
+===============================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":""}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026orderBy=ASC"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/NashtechAssignment/","Query":"?page=1\u0026orderBy=ASC"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/NashtechAssignment/","Query":"?page=1\u0026orderBy=ASC"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026orderBy=ASC"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size10\u0026orderBy=ASC"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size10\u0026orderBy=ASC"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size10\u0026orderBy=ASC","Body":""}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size10\u0026orderBy=ASC","Body":""}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size=10\u0026orderBy=ASC","Body":""}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size=10\u0026orderBy=ASC","Body":""}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size=10\u0026orderBy=ASC",
+"Body":"Hello Nashtech Assignment body!"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size=10\u0026orderBy=ASC",
+"Body":"Hello Nashtech Assignment body!"}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size=10\u0026orderBy=ASC",
+"Body":"","Header":{"Accept":"text/html,application/xhtml\u002Bxml,application/xml;q=0.9,image/webp,image/apng,
+*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","Host":"localhost:7104",
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62",
+":method":"GET","Accept-Encoding":"gzip, deflate, br","Accept-Language":"en-US,en;q=0.9","Cache-Control":"max-age=0","Upgrade-Insecure-Requests":"1",
+"sec-ch-ua":"\u0022 Not;A Brand\u0022;v=\u002299\u0022, \u0022Microsoft Edge\u0022;v=\u002297\u0022, \u0022Chromium\u0022;v=\u002297\u0022","sec-ch-ua-mobile":"?0",
+"sec-ch-ua-platform":"\u0022Windows\u0022","sec-fetch-site":"none","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document"}}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size=10\u0026orderBy=ASC","Body":"Hello Nashtech Assignment body!","Header":{"Accept":"*/*","Connection":"keep-alive","Host":"localhost:7104","User-Agent":"PostmanRuntime/7.29.0","Accept-Encoding":"gzip, deflate, br","Content-Type":"text/plain","Content-Length":"31","MyHeader":"Hello, It\u0027s Nashtech Header!","Postman-Token":"5ef92e6a-aeb8-4e23-bb43-8743be275d0c"}}
+================================================================
+{"Schema":"https","Host":"localhost:7104","Path":"/","Query":"?page=1\u0026size=10\u0026orderBy=ASC","Body":"Hello Nashtech Assignment body!","Header":{"Accept":"*/*","Connection":"keep-alive","Host":"localhost:7104","User-Agent":"PostmanRuntime/7.29.0","Accept-Encoding":"gzip, deflate, br","Content-Type":"text/plain","Content-Length":"31","MyHeader":"Hello Nashtech Header!","Postman-Token":"16edf0a4-6f77-4077-ba6e-08b9a2b22680"}}
